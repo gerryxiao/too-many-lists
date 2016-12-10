@@ -2,8 +2,8 @@
 有问题或者想要最终的源代码？
 [全在 Github!][github]
 
-I fairly frequently get asked how to implement a linked list in Rust. The
-answer honestly depends on what your requirements are, and it's obviously not
+经常有人问我怎样用Rust实现链接列表。
+The answer honestly depends on what your requirements are, and it's obviously not
 super easy to answer the question on the spot. As such I've decided to write
 this book to comprehensively answer the question once and for all.
 
