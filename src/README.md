@@ -1,7 +1,6 @@
-# Learning Rust With Entirely Too Many Linked Lists
-
-Got any issues or want to check out all the final code at once?
-[Everything's on Github!][github]
+# 通过学链接列表来学习Rust
+有问题或者想要最终的源代码？
+[全在 Github!][github]
 
 I fairly frequently get asked how to implement a linked list in Rust. The
 answer honestly depends on what your requirements are, and it's obviously not
