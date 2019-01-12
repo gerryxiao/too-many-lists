@@ -6,6 +6,7 @@
 The answer honestly depends on what your requirements are, and it's obviously not
 super easy to answer the question on the spot. As such I've decided to write
 this book to comprehensively answer the question once and for all.
+答案真的依赖于你需要什么，显然没有简单的及时答案。所以，我决定写一本书来彻底回答这个问题。
 
 In this series I will teach you basic and advanced Rust programming
 entirely by having you implement 6 linked lists. In doing so, you should
